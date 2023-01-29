@@ -1,0 +1,9 @@
+{
+  "name": "Username",
+  "workFromOffice": true,
+  "skillSet": [
+    "Java",
+    "Pyton"
+  ],
+  "age": 21
+}

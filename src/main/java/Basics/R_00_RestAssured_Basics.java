@@ -1,4 +1,3 @@
-package Basics;
 // Rest Assured
 	// RestAssured is an API/ library/ JAR through which we can automate Rest API's
 	// RestAssured by default support BDD style of writing the test cases
@@ -129,8 +128,3 @@ package Basics;
 
 // Reference API's used in this project
 	// https://reqres.in/
-
-
-
-
-

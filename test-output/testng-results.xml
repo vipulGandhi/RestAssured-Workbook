@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T18:51:38 IST" name="Default suite" finished-at="2023-05-30T18:51:38 IST" duration-ms="268">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T18:51:38 IST" name="Default test" finished-at="2023-05-30T18:51:38 IST" duration-ms="268">
+      <class name="Basics.R_09_Serealization_Deserialization_Concept">
+        <test-method signature="serealization()[pri:1, instance:Basics.R_09_Serealization_Deserialization_Concept@7fee8714]" started-at="2023-05-30T18:51:38 IST" name="serealization" finished-at="2023-05-30T18:51:38 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serealization -->
+        <test-method signature="deserialization()[pri:2, instance:Basics.R_09_Serealization_Deserialization_Concept@7fee8714]" started-at="2023-05-30T18:51:38 IST" name="deserialization" finished-at="2023-05-30T18:51:38 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deserialization -->
+      </class> <!-- Basics.R_09_Serealization_Deserialization_Concept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
